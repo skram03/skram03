@@ -12,7 +12,7 @@ I'm passionate about turning real-world problems into elegant, scalable solution
 
 ## 🛠️ Skills
 **Languages:** Java · Python · JavaScript · C  
-**Frontend:** React · HTML5 · TailwindCSS · Figma (basic)  
+**Frontend:** React · HTML5 · TailwindCSS 
 **Backend:** Flask · Django · Node/Express  
 **ML / Tools:** TensorFlow · FastAPI · NumPy · Pandas  
 **Other:** Arduino · ESP8266 · Git · MySQL · MongoDB
